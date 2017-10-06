@@ -39,14 +39,14 @@ least common multiple
         WHAT we notice ?????
             24.2 = 6.8 = 48
         So we conclude that
-            LCM(a,b)稧CD(a,b) = a穊.
+            LCM(a,b)路GCD(a,b) = a路b.
 
 -What To Do
     -Play with small data sets to find out how the least common multiple LCM(a,b) is related to the greatest common divisor GCD(a,b).
     -Do you see? For any two positive integers a and b,
-        LCM(a,b)稧CD(a,b) = a穊.
+        LCM(a,b)路GCD(a,b) = a路b.
         Prove this property and implement an algorithm for computing the least common multiple using your solution for the greatest common divisor.
-    -so,   LCM(a,b) = a穊/GCD(a,b)
+    -so,   LCM(a,b) = a路b/GCD(a,b)
 
 
 */
