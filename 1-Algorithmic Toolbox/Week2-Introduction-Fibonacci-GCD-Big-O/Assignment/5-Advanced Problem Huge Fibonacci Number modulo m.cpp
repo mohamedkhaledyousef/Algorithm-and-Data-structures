@@ -11,7 +11,7 @@ using namespace std;
 
 Take a detailed look at this table. Do you see? Both these sequences are periodic! For ?? = 2, the period
 is 011 and has length 3, while for ?? = 3 the period is 01120221 and has length 8. Therefore, to compute,
-say, ??2015 mod 3 we just need to find the remainder of 2015 when divided by 8. Since 2015 = 251 · 8 + 7, we
+say, ??2015 mod 3 we just need to find the remainder of 2015 when divided by 8. Since 2015 = 251 Â· 8 + 7, we
 conclude that ??2015 mod 3 = ??7 mod 3 = 1.
 This is true in general: for any integer ?? ? 2, the sequence ???? mod ?? is periodic. The period always
 starts with 01 and is known as Pisano period.
