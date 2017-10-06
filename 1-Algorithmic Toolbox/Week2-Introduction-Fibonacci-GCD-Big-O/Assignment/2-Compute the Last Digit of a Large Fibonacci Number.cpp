@@ -19,7 +19,7 @@ Problem Introduction
 			but just its last digit (thatis, ???? mod 10). 
 		-Computing the last digit of ???? is easy: it is just the last digit of the sum of the last digits of?????1 and ?????2:
 				??[??] ? (??[?? ? 1] + ??[?? ? 2]) mod 10
-		-This way, all ??[??]’s are just digits, so they fit perfectly into any standard integer type, and computing a sum of ??[?? ? 1] and ??[?? ? 2] is performed very quickly.
+		-This way, all ??[??]â€™s are just digits, so they fit perfectly into any standard integer type, and computing a sum of ??[?? ? 1] and ??[?? ? 2] is performed very quickly.
 
 */
 
